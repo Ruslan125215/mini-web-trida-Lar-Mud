@@ -10,8 +10,8 @@ Lev Mudryk --> mudryk125
 Matematiku
  
 • Jak jste si rozdělili práci
-mudryk-->100%
-larionov-->0%
+mudryk-->50%
+larionov-->50%
 • Postup práce (min. 5 kroků) 
 1.Udelali jsme github tym a Readme
 2.Udelali jsme HTML file
