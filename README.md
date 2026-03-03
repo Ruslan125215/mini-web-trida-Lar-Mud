@@ -7,7 +7,7 @@ Ruslan Larionov --> Ruslan125215
 Lev Mudryk --> mudryk125
 
 • Co projekt obsahuje 
-Radost a Usměv :)
+Matematiku
  
 • Jak jste si rozdělili práci
 mudryk-->100%
@@ -19,5 +19,4 @@ larionov-->0%
 4.Skontrolovali jsme to jak to pracuje
 5.Opravili jsme chyby
 • Jak projekt spustit (otevřít index.html v prohlížeči)
-click dis
-
+Rozbalte soubor se vším všudy, klikněte na html(soubor) a to je vše!!
