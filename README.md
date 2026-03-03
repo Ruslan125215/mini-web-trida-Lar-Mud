@@ -10,14 +10,14 @@ Lev Mudryk --> mudryk125
 Radost a Usměv :)
  
 • Jak jste si rozdělili práci
-mudryk-->10%
-larionov-->90%
+mudryk-->100%
+larionov-->0%
 • Postup práce (min. 5 kroků) 
-1.
-2.
-3.
-4.
-5.
+1.Udelali jsme github tym a Readme
+2.Udelali jsme HTML file
+3.Udelali jsme CSS file
+4.Skontrolovali jsme to jak to pracuje
+5.Opravili jsme chyby
 • Jak projekt spustit (otevřít index.html v prohlížeči)
 click dis
 
