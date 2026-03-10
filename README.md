@@ -1,10 +1,10 @@
 # mini-web-trida-Lar-Mud
 • Název projektu 
-  Matematicky Klub
+*Matematicky Klub
 
 
 • Autoři (jména + GitHub username) 
-	Ruslan Larionov --> Ruslan125215
+  Ruslan Larionov --> Ruslan125215
   Lev Mudryk --> mudryk125
 
 • Co projekt obsahuje 
