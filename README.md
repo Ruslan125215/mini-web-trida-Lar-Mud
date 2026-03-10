@@ -1,4 +1,4 @@
-## mini-web-trida-Lar-Mud
+# mini-web-trida-Lar-Mud
 ## Název projektu 
 #### Matematicky Klub
 
