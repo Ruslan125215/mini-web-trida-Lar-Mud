@@ -17,7 +17,7 @@ larionov-->50%
 1.Udelali jsme github tym a Readme
 2.Udelali jsme HTML file
 3.Udelali jsme CSS file
-4.Skontrolovali jsme to jak to pracuje
+4.Skontrolovali jsme jak to pracuje
 5.Opravili jsme chyby
 • Jak projekt spustit (otevřít index.html v prohlížeči)
 Rozbalte soubor se vším všudy, klikněte na html(soubor) a to je vše!!
