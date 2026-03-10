@@ -3,9 +3,9 @@
 # Matematicky Klub
 
 
-• Autoři (jména + GitHub username) 
-# Ruslan Larionov --> Ruslan125215
-# Lev Mudryk --> mudryk125
+# Autoři (jména + GitHub username) 
+ Ruslan Larionov --> Ruslan125215
+ Lev Mudryk --> mudryk125
 
 • Co projekt obsahuje 
 # Registrace do klubu
