@@ -1,6 +1,6 @@
 ## mini-web-trida-Lar-Mud
 • Název projektu 
-#### Matematicky Klub
+##### Matematicky Klub
 
 
 # Autoři (jména + GitHub username) 
